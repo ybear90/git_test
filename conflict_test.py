@@ -1,2 +1,2 @@
-def test1(yellow):
+def test1(red):
     pass
